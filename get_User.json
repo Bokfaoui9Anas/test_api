@@ -29,4 +29,10 @@
       "name": "AnasExtraUser5",
       "mapName": "string"
     }
+     {
+      "id": 6,
+      "role": "ExtraUser6",
+      "name": "AnasExtraUser6",
+      "mapName": "string"
+    }
   ]
