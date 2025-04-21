@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "role": "Admin",
+      "name": "Anas",
+      "mapName": "string"
+    },
+    {
+      "id": 2,
+      "role": "User",
+      "name": "AnasUser",
+      "mapName": "string"
+    },
+    {
+      "id": 3,
+      "role": "ExtraUser3",
+      "name": "AnasExtraUser3",
+      "mapName": "string"
+    },
+    {
+      "id": 4,
+      "role": "ExtraUser4",
+      "name": "AnasExtraUser4",
+      "mapName": "string"
+    },
+    {
+      "id": 5,
+      "role": "ExtraUser5",
+      "name": "AnasExtraUser5",
+      "mapName": "string"
+    }
+  ]
